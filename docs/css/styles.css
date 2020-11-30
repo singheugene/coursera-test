@@ -1,0 +1,31 @@
+* {
+	font-family: Segoe Print;
+}
+
+#header-nav {
+  background-color: #e2725b;
+}
+#brand{
+	color: #5BCBE2;
+}
+
+#menulist{
+	background-color: #e2725b;
+}
+#menu-title span {
+	position: absolute;
+	text-align: center;
+	top:0;
+}#home-tiles{
+	background-color: #e2725b;
+}
+h2{
+	text-align: center;
+}
+#chickstory{
+	margin: 30px;
+	padding: 15px;
+	background-color: #e2725b;
+	position: relative;
+
+}
