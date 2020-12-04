@@ -36,17 +36,17 @@ p {
 		background-color: #E2725B
 }
 #st1 {
-	background-color: #fffff0
+	background-color: #fffff0;
 	position: absolute;
 	text-align: right;
   }
 #st2 {
-	background-color: #efdecd
+	background-color: #efdecd;
 	position: absolute;	
 	text-align: right;
   }
 #st3 {
-	background-color: #dfff00
+	background-color: #dfff00;
 	position: absolute;	
 	text-align: right;
   }
